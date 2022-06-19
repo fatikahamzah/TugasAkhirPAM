@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783177823759",
+    "project_id": "tugasakhirpam-965ca",
+    "storage_bucket": "tugasakhirpam-965ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783177823759:android:e15137327c8815e043d57a",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhirpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783177823759-59dj9bm8b4k059rb1d5jn9l1fbetrkfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5PTIZdnl-bNIofez5dS2DFX1BHjKPIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783177823759-59dj9bm8b4k059rb1d5jn9l1fbetrkfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
